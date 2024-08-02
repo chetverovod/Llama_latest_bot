@@ -11,7 +11,7 @@ import ollama
 
 help_info = f"/p type your prompt.\n\nExample:\n/p Why sky is blue?"
 
-# Включаем логирование, чтобы не пропустить важные сообщения
+# Включаем логирование, чтобы не пропустить важные сообщения.
 logging.basicConfig(level=logging.INFO)
 
 # Объект бота. Для создания этого объекта вам нужно получить токен.
