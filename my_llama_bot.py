@@ -15,7 +15,7 @@ help_info = f"/p type your prompt.\n\nExample:\n/p Why sky is blue?"
 logging.basicConfig(level=logging.INFO)
 
 # Объект бота. Для создания этого объекта вам нужно получить токен.
-# токена зайдите в Телеграм-канал @BotFather и зарегистрируйте своего
+# Зайдите в Телеграм-канал @BotFather и зарегистрируйте своего
 # уникального бота. 
 bot = Bot(token="")
 
