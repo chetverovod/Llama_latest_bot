@@ -2,6 +2,7 @@
 Ollama - фреймворк для запуска и управления большими языковыми моделями (LLM) на локальных вычислительных ресурсах. Он обеспечивает загрузку и развертывание выбранной LLM и доступ к ней через API.
 
 ## Установка Ollama
+Порядок установки описан на сайте:
 https://hostkey.ru/documentation/technical/gpu/ollama/
 
 После установки Ollama будет доступна по адресу:
@@ -35,7 +36,7 @@ pip install -r requirements.txt
 ```shell
 python  my_llama_bot.py
 ```
-Бежим в Телеграм общаться с нашим ботом.
+Бежим в Телеграм общаться с ботом.
 
 ## Ollama REST API
 https://github.com/ollama/ollama/blob/main/docs/api.md
